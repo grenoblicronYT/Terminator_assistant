@@ -1,1 +1,1 @@
-# Terminator_assistant
+# Welcome to the GitHub of the Terminator assistant
